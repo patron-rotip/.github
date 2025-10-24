@@ -40,10 +40,10 @@ Examining factors that influence democratic participation (such as voting system
 | Name | Role | Email | Availability |
 |------|------|-------|---------------|
 | [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level or lab matters, reference letters, advice |
-| [**Mike Cowan**](https://github.com/mcowan38) | Graduate Research Fellow | [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Admin, timesheets, GitHub, coding/data, technical issues |
+| [**Mike Cowan**](https://github.com/mcowan38) | Graduate Research Fellow; Lab Coordinator | [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Admin, timesheets, GitHub, coding/data, technical issues |
 | [**Eli Rose**](https://github.com/elirose1423) | Graduate Research Fellow | [eli.rose@mail.utoronto.ca](mailto:eli.rose@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
-| [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Insert Epic Title | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
+| [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Post-Doctoral Research Fellow | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
 
 ---
