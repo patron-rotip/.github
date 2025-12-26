@@ -14,7 +14,7 @@ Within PATRON, the Social Science Working Group (SSWG) drives the research agend
 Analyzing how political institutions, electoral systems, and lobbying practices shape who is (or isn't) represented in Canadian politics and how voices of certain groups may be marginalized.
 
 2. **Political Finance & Transparency:**
-Investigating the flows of money in politics (e.g., donations, third-party advertising, corporate influence), government procurement, and evaluating how financial transparency or reforms affect political behavior and party strategies.
+Investigating the flows of money in politics (e.g., donations, third-party advertising, corporate influence), government procurement, and evaluating how financial transparency or reforms affect political behaviour and party strategies.
 
 3. **Electoral Integrity & Political Behaviour:**
 Examining factors that influence democratic participation (such as voting systems, incidences of misinformation, voter engagement or polarization), and the role of information in sustaining democratic participation.
