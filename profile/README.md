@@ -22,11 +22,13 @@ Examining factors that influence democratic participation (such as voting system
 ## Onboarding Resources
 
 - [Welcome](https://github.com/adapters-lab/onboarding)
-- [Slack](https://github.com/adapters-lab/slack)
+- [Slack](https://patroncrew.slack.com)
+- [Google Drive](https://drive.google.com/drive/folders/1BEv-fTR8MxAC1e2l_BCTGp8tpPnRkXUl)
 - [Git, Shell, CLI](https://github.com/adapters-lab/github-guidelines)
 - [VS Code, Docker](https://github.com/adapters-lab/vs-code-docker)
 - [Coding with AI](https://github.com/adapters-lab/coding-with-ai)
-- [Ports & Adapters Template](https://github.com/adapters-lab/hexagonal-architecture)
+- [PATRON Projects Template](https://github.com/adapters-lab/projects-template)
+- [PATRON Infrastructure Template](https://github.com/adapters-lab/data-infrastructure-template)
 
 ## Meeting Schedule
 
