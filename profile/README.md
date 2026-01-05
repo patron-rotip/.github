@@ -35,7 +35,7 @@ Examining factors that influence democratic participation (such as voting system
 | **Type** | **Location** | **Day** | **Time** | **Frequency** |
 |----------|--------------|---------------|---------|----------|
 | Team Meetings | UTSC | Tuesday | 10AM-11AM | Weekly |
-| Writing/Coding Days | UTSC | Tuesday/Friday | 9AM-5PM | Weekly | 
+| Writing/Coding Days | UTSC | Tuesday / Friday | 9AM-5PM | Weekly | 
 
 ## Contacts
 
