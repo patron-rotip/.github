@@ -42,23 +42,26 @@ Examining factors that influence democratic participation (such as voting system
 | Name | Role | Email | Availability |
 |------|------|-------|---------------|
 | [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level or lab matters, reference letters, advice |
-| [**Mike Cowan**](https://github.com/mcowan38) | Graduate Research Fellow; Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Admin, timesheets, GitHub, coding/data, technical issues |
-| [**Eli Rose**](https://github.com/elirose1423) | Graduate Research Fellow | [eli.rose@mail.utoronto.ca](mailto:eli.rose@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
+| [**Mike Cowan**](https://github.com/mcowan38) | Graduate Research Fellow; Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin,  GitHub, coding/data, technical issues |
+| [**Eli Rose**](https://github.com/elirose1423) | Graduate Research Fellow | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
 | [**Lawrence King**](https://github.com/LawVinKin) | Graduate Research Fellow | [lawrence.king@mail.utoronto.ca](mailto:lawrence.king@mail.utoronto.ca) | Quantitative research, political economy, democratic accountability |
+| [**Vanessa Milton**](https://github.com/VanessaMilton) | Graduate Research Fellow | [vanessa.milton@alumni.utoronto.ca](mailto:vanessa.milton@alumni.utoronto.ca) | Quantitative research, quantitative research, public administration, political anthropology |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Post-Doctoral Research Fellow | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
+| [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Admin, grant writing, timesheets, pedagogical research |
 
 ---
 
 ## Undergraduate Research Assistants
 
-| Name | GitHub |
-|------|--------|
-| **Kira Jensen** | https://github.com/KJensen16 |
-| **Jae Hyun Cho** | https://github.com/jaehyunncho |
-| **Elyana Hussain** | https://github.com/elyanahussain |
-| **Leah Wolfe** | https://github.com/wolfeleah |
+| Name | Role | GitHub |
+|------|------|--------|
+| **Kira Jensen** | Lab Coordinator | https://github.com/KJensen16 |
+| **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
+| **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
+| **Leah Wolfe** | Research Assistant | https://github.com/wolfeleah |
+| **Joanna Fan** | Research Assistant | https://github.com/joannafan |
 
 ---
 
