@@ -4,7 +4,7 @@
 
 Welcome to the home for the Policy Horizons Lab at the University of Toronto Scarborough.
 
-Our lab is supported by the Political Accountability, Transparency, and Representation Oversight Network (PATRON/ROTIP). PATRON is a multi-year partnership funded by SSHRC and the University of Toronto. PATRON strengthens Canadian democracy by building a searchable public-interest data repository of linked databases covering political representation, transparency, and accountability.
+Our lab is supported by the Political Accountability, Transparency, and Representation Oversight Network (PATRON-ROTIP). PATRON is a multi-year partnership funded by SSHRC and the University of Toronto. PATRON strengthens Canadian democracy by building a searchable public-interest data repository of linked databases covering political representation, transparency, and accountability.
 
 The project supports an interdisciplinary research program to expose distortions in Canadian governance through civic non-profits, and training students via an experiential learning pipeline.
 
@@ -45,11 +45,12 @@ Examining factors that influence democratic participation (such as voting system
 | [**Mike Cowan**](https://github.com/mcowan38) | Graduate Research Fellow; Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin,  GitHub, coding/data, technical issues |
 | [**Eli Rose**](https://github.com/elirose1423) | Graduate Research Fellow | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
+| [**Florence LaFlamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
 | [**Lawrence King**](https://github.com/LawVinKin) | Graduate Research Fellow | [lawrence.king@mail.utoronto.ca](mailto:lawrence.king@mail.utoronto.ca) | Quantitative research, political economy, democratic accountability |
 | [**Vanessa Milton**](https://github.com/VanessaMilton) | Graduate Research Fellow | [vanessa.milton@alumni.utoronto.ca](mailto:vanessa.milton@alumni.utoronto.ca) | Quantitative research, public administration, political anthropology |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Post-Doctoral Research Fellow | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
-| [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Admin, grant writing, timesheets, pedagogical research |
+| [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Team admin, grant writing, timesheets, pedagogical research |
 
 ---
 
@@ -62,6 +63,8 @@ Examining factors that influence democratic participation (such as voting system
 | **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
 | **Leah Wolfe** | Research Assistant | https://github.com/wolfeleah |
 | **Joanna Fan** | Research Assistant | https://github.com/joannafan |
+| **Arjun Yanglem** | Research Assistant | https://github.com/arjunyanglem |
+| **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
 
 ---
 
