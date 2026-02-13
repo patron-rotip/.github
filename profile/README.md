@@ -42,10 +42,10 @@ Examining factors that influence democratic participation (such as voting system
 | Name | Role | Email | Availability |
 |------|------|-------|---------------|
 | [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level or lab matters, reference letters, advice |
-| [**Mike Cowan**](https://github.com/mcowan38) | Graduate Research Fellow; Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin,  GitHub, coding/data, technical issues |
+| [**Mike Cowan**](https://github.com/mcowan38) | Graduate Research Fellow; Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin,  GitHub, coding/data/statistics, technical issues |
 | [**Eli Rose**](https://github.com/elirose1423) | Graduate Research Fellow | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
-| [**Florence LaFlamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
+| [**Florence Laflamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
 | [**Lawrence King**](https://github.com/LawVinKin) | Graduate Research Fellow | [lawrence.king@mail.utoronto.ca](mailto:lawrence.king@mail.utoronto.ca) | Quantitative research, political economy, democratic accountability |
 | [**Vanessa Milton**](https://github.com/VanessaMilton) | Graduate Research Fellow | [vanessa.milton@alumni.utoronto.ca](mailto:vanessa.milton@alumni.utoronto.ca) | Quantitative research, public administration, political anthropology |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Post-Doctoral Research Fellow | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
