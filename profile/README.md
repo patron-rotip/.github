@@ -52,7 +52,7 @@ Examining factors that influence democratic participation (such as voting system
 | [**Vanessa Milton**](https://github.com/VanessaMilton) | Research Fellow | [vanessa.milton@alumni.utoronto.ca](mailto:vanessa.milton@alumni.utoronto.ca) | Quantitative research, public administration, political anthropology |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Post-Doctoral Research Fellow | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
-| [**Matthew Price**](https://github.com/mujahedulislam) | Faculty Partner | [mdmujahed.islam@mail.utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
+| [**Matthew Price**](https://github.com/titaniumbones) | Faculty Partner | [matt.price@utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
 
 ---
 
