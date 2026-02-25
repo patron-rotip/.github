@@ -44,15 +44,15 @@ Examining factors that influence democratic participation (such as voting system
 | [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level or lab matters, reference letters |
 | [**Rohan Alexander**](https://github.com/RohanAlexander) | Co-Principal Investigator | [rohan.alexander@utoronto.ca](mailto:rohan.alexander@utoronto.ca) | Project-level matters, data, code, statistics|
 | [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Team admin, grant writing, timesheets, pedagogical research |
+| [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Director of Teaching and Pedagogy | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
+| [**Matthew Price**](https://github.com/titaniumbones) | Faculty Partner | [matt.price@utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
 | [**Mike Cowan**](https://github.com/mcowan38) | Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin, recruitment, technical setup, coding, statistics |
-| [**Eli Rose**](https://github.com/elirose1423) | Graduate Research Fellow | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
+| [**Eli Rose**](https://github.com/elirose1423) | RADIATOR Lead | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
 | [**Florence Laflamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
 | [**Lawrence King**](https://github.com/LawVinKin) | Graduate Research Fellow | [lawrence.king@mail.utoronto.ca](mailto:lawrence.king@mail.utoronto.ca) | Quantitative research, political economy, democratic accountability |
 | [**Vanessa Milton**](https://github.com/VanessaMilton) | Research Fellow | [vanessa.milton@alumni.utoronto.ca](mailto:vanessa.milton@alumni.utoronto.ca) | Quantitative research, public administration, political anthropology |
-| [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Post-Doctoral Research Fellow | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
-| [**Matthew Price**](https://github.com/titaniumbones) | Faculty Partner | [matt.price@utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
 
 ---
 
