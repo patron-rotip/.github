@@ -50,8 +50,6 @@ Examining factors that influence democratic participation (such as voting system
 | [**Eli Rose**](https://github.com/elirose1423) | RADIATOR Lead | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
 | [**Florence Laflamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
-| [**Lawrence King**](https://github.com/LawVinKin) | Graduate Research Fellow | [lawrence.king@mail.utoronto.ca](mailto:lawrence.king@mail.utoronto.ca) | Quantitative research, political economy, democratic accountability |
-| [**Vanessa Milton**](https://github.com/VanessaMilton) | Research Fellow | [vanessa.milton@alumni.utoronto.ca](mailto:vanessa.milton@alumni.utoronto.ca) | Quantitative research, public administration, political anthropology |
 | [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
 
 ---
@@ -73,10 +71,13 @@ Examining factors that influence democratic participation (such as voting system
 
 | Name | GitHub |
 |------|--------|
+| **Lawrence King** | https://github.com/LawVinKin) |
+| **Vanessa Milton** | https://github.com/VanessaMilton) |
 | **Leah Wolfe** | https://github.com/wolfeleah |
 | **Muhammed Bin Amjad** | https://github.com/MuhammadBinAmjad |
 | **Taiba Ahmed** | https://github.com/taibaahmed |
 | **Wilson Wong** | https://github.com/WilsonWong369 |
+
 
 ## Acknowledgements
 
