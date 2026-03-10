@@ -49,6 +49,7 @@ Examining factors that influence democratic participation (such as voting system
 | [**Mike Cowan**](https://github.com/mcowan38) | Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin, recruitment, technical setup, coding, statistics |
 | [**Eli Rose**](https://github.com/elirose1423) | RADIATOR Lead | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
+| [**Alan Wei**](https://github.com/alanwei0405) | Graduate Research Fellow | [alanzy.wei@mail.utoronto.ca](mailto:alanzy.wei@mail.utoronto.ca) | AI Engineering, GitHub, code review |
 | [**Florence Laflamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
 | [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
 
