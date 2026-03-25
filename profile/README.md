@@ -21,14 +21,25 @@ Examining factors that influence democratic participation (such as voting system
 
 ## Onboarding Resources
 
-- [Welcome](https://github.com/adapters-lab/onboarding)
+All onboarding materials live in the [onboarding](https://github.com/adapters-lab/onboarding) repository.
+
+- [Welcome](https://github.com/adapters-lab/onboarding/tree/main/welcome) -- Lab culture, architecture principles, presenting research
+- [GitHub Guidelines](https://github.com/adapters-lab/onboarding/tree/main/github-guidelines) -- Version control workflow for reproducible research
+- [Computing Environment](https://github.com/adapters-lab/onboarding/tree/main/computing-environment) -- VS Code, Docker, shell, and Python environment setup
+- [Coding with AI](https://github.com/adapters-lab/onboarding/tree/main/coding-with-ai) -- Lab AI policy, tool orientation, skills repo
+- [Dev Practices](https://github.com/adapters-lab/onboarding/tree/main/dev-practices) -- Border guard, provenance, readability standards
+- [Python Standards](https://github.com/adapters-lab/onboarding/tree/main/python-standards) -- On-ramp for R-first researchers, coding conventions
+- [Data Infrastructure](https://github.com/adapters-lab/onboarding/tree/main/data-infrastructure) -- PATRON templates and data layer conventions
+
+### Templates
+
+- [Projects Template](https://github.com/adapters-lab/projects-template) -- Standard PATRON project structure
+- [Infrastructure Template](https://github.com/adapters-lab/data-infrastructure-template) -- Hexagonal architecture starter
+
+### Communication
+
 - [Slack](https://patroncrew.slack.com)
 - [Google Drive](https://drive.google.com/drive/folders/1BEv-fTR8MxAC1e2l_BCTGp8tpPnRkXUl)
-- [Git, Shell, CLI](https://github.com/adapters-lab/github-guidelines)
-- [VS Code, Docker](https://github.com/adapters-lab/vs-code-docker)
-- [Coding with AI](https://github.com/adapters-lab/coding-with-ai)
-- [PATRON Projects Template](https://github.com/adapters-lab/projects-template)
-- [PATRON Infrastructure Template](https://github.com/adapters-lab/data-infrastructure-template)
 
 ## Meeting Schedule
 
