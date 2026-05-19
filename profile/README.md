@@ -2,7 +2,7 @@
 
 # Overview
 
-Welcome to the home for the Policy Horizons Lab at the University of Toronto Scarborough.
+Welcome to the PATRON lab at the University of Toronto Scarborough.
 
 Our lab is supported by the Political Accountability, Transparency, and Representation Oversight Network (PATRON-ROTIP). PATRON is a multi-year partnership funded by SSHRC and the University of Toronto. PATRON strengthens Canadian democracy by building a searchable public-interest data repository of linked databases covering political representation, transparency, and accountability.
 
@@ -42,14 +42,17 @@ Examining factors that influence democratic participation (such as voting system
 | Name | Role | Email | Availability |
 |------|------|-------|---------------|
 | [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level or lab matters, reference letters |
-| [**Rohan Alexander**](https://github.com/RohanAlexander) | Co-Principal Investigator | [rohan.alexander@utoronto.ca](mailto:rohan.alexander@utoronto.ca) | Project-level matters, data, code, statistics|
+| [**Rohan Alexander**](https://github.com/RohanAlexander) | Co-Director | [rohan.alexander@utoronto.ca](mailto:rohan.alexander@utoronto.ca) | Project-level matters, data, code, statistics|
 | [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Team admin, grant writing, timesheets, pedagogical research |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Director of Teaching and Pedagogy | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
-| [**Matthew Price**](https://github.com/titaniumbones) | Faculty Partner | [matt.price@utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
 | [**Mike Cowan**](https://github.com/mcowan38) | Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin, recruitment, technical setup, coding, statistics |
+| [**Matthew Price**](https://github.com/titaniumbones) | Faculty Partner | [matt.price@utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
+| [**Michael Donnelly**](https://github.com/mjdonnelly) | Faculty Partner | [mj.donnelly@utoronto.ca](mailto:mj.donnelly@utoronto.ca) | Quantitative methods, public opinion, social policy |
+| [**Thierry Sans**](https://github.com/ThierrySans) | Faculty Partner | [thierry.sans@utoronto.ca](mailto:thierry.sans@utoronto.ca) | Computer security, web development, entrepreneurship |
+| [**Ethan Fosse**](https://github.com/ethanfosse) | Faculty Partner | [ethan.fosse@utoronto.ca](mailto:ethan.fosse@utoronto.ca) | Sociology, data science, computational methods |
 | [**Eli Rose**](https://github.com/elirose1423) | RADIATOR Lead | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
-| [**Alan Wei**](https://github.com/alanwei0405) | Graduate Research Fellow | [alanzy.wei@mail.utoronto.ca](mailto:alanzy.wei@mail.utoronto.ca) | AI Engineering, GitHub, code review |
+| [**Alan Wei**](https://github.com/alanwei0405) | Graduate Research Fellow | [alanzy.wei@mail.utoronto.ca](mailto:alanzy.wei@mail.utoronto.ca) | AI engineering, statistics, code review |
 | [**Florence Laflamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
 | [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
 
@@ -60,11 +63,33 @@ Examining factors that influence democratic participation (such as voting system
 | Name | Role | GitHub |
 |------|------|--------|
 | **Kira Jensen** | Lab Coordinator | https://github.com/KJensen16 |
-| **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
-| **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
 | **Joanna Fan** | Research Assistant | https://github.com/joannafan |
-| **Arjun Yanglem** | Research Assistant | https://github.com/arjunyanglem |
+| **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
+| **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
+| **Alexandre M. Mueller** | Research Assistant | https://github.com/AlexandreMMueller |
 | **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
+| **Ivy Liu** | Communications & Branding Officer | https://github.com/arjunyanglem |
+| **Arjun Yanglem** | Communications & Branding Officer | https://github.com/arjunyanglem |
+
+## Scholars in Residence: LiPaD (Summer 2026)
+| Name | Role | GitHub |
+|------|------|--------|
+| **Joanna Fan** | Research Assistant | https://github.com/joannafan |
+| **Keyana Hector** | Research Assistant | https://github.com/keyanahector |
+| **Umai Munamr** | Research Assistant| https://github.com/umarioh |
+| **R R Murugakrishnan**| Research Assistant | https://github.com/Muru2026 |
+| **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
+
+
+
+## Scholars in Residence: Procurement (Summer 2026)
+| Name | Role | GitHub |
+|------|------|--------|
+| **Charlie Cutler** | Research Assistant | https://github.com/charliecutler2 |
+| **Drisha Dadheech** | Research Assistant | https://github.com/DrishaDadheech |
+| **Karin Jakubcova** | Research Assistant| https://github.com/karinjakubcova |
+| **Abigail Price** | Research Assistant | https://github.com/AbigailPrice |
+| **Yota Wang** | Research Assistant | https://github.com/Youziii2 |
 
 ---
 
@@ -72,8 +97,8 @@ Examining factors that influence democratic participation (such as voting system
 
 | Name | GitHub |
 |------|--------|
-| **Lawrence King** | https://github.com/LawVinKin) |
-| **Vanessa Milton** | https://github.com/VanessaMilton) |
+| **Lawrence King** | https://github.com/LawVinKin |
+| **Vanessa Milton** | https://github.com/VanessaMilton |
 | **Leah Wolfe** | https://github.com/wolfeleah |
 | **Muhammed Bin Amjad** | https://github.com/MuhammadBinAmjad |
 | **Taiba Ahmed** | https://github.com/taibaahmed |
