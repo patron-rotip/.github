@@ -6,7 +6,7 @@ Welcome to the PATRON lab at the University of Toronto Scarborough.
 
 Our lab is supported by the Political Accountability, Transparency, and Representation Oversight Network (PATRON-ROTIP). PATRON is a multi-year partnership funded by SSHRC and the University of Toronto. PATRON strengthens Canadian democracy by building a searchable public-interest data repository of linked databases covering political representation, transparency, and accountability.
 
-The project supports an interdisciplinary research program to expose distortions in Canadian governance through civic non-profits, and training students via an experiential learning pipeline.
+In partnership with civic non-profits, the project pursues an interdisciplinary research agenda to surface structural distortions in Canadian governance while training students through an experiential learning pipeline.
 
 Within PATRON, the Social Science Working Group (SSWG) drives the research agenda, organized around three thematic streams:
 
@@ -57,15 +57,14 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Team admin, grant writing, timesheets, pedagogical research |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Director of Teaching and Pedagogy | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Mike Cowan**](https://github.com/mcowan38) | Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin, recruitment, technical setup, coding, statistics |
-| [**Matthew Price**](https://github.com/titaniumbones) | Faculty Partner | [matt.price@utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
-| [**Michael Donnelly**](https://github.com/mjdonnelly) | Faculty Partner | [mj.donnelly@utoronto.ca](mailto:mj.donnelly@utoronto.ca) | Quantitative methods, public opinion, social policy |
-| [**Thierry Sans**](https://github.com/ThierrySans) | Faculty Partner | [thierry.sans@utoronto.ca](mailto:thierry.sans@utoronto.ca) | Computer security, web development, entrepreneurship |
-| [**Ethan Fosse**](https://github.com/ethanfosse) | Faculty Partner | [ethan.fosse@utoronto.ca](mailto:ethan.fosse@utoronto.ca) | Sociology, data science, computational methods |
 | [**Eli Rose**](https://github.com/elirose1423) | RADIATOR Lead | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
 | [**Alan Wei**](https://github.com/alanwei0405) | Graduate Research Fellow | [alanzy.wei@mail.utoronto.ca](mailto:alanzy.wei@mail.utoronto.ca) | AI engineering, statistics, code review |
 | [**Florence Laflamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
-| [**Md Mujahed Islam**](https://github.com/mujahedulislam) | Post-Doctoral Research Fellow | [mdmujahed.islam@mail.utoronto.ca](mailto:mdmujahed.islam@mail.utoronto.ca) | Research design, causal inference, data issues |
+| [**Matthew Price**](https://github.com/titaniumbones) | Faculty Partner | [matt.price@utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
+| [**Michael Donnelly**](https://github.com/mjdonnelly) | Faculty Partner | [mj.donnelly@utoronto.ca](mailto:mj.donnelly@utoronto.ca) | Quantitative methods, public opinion, social policy |
+| [**Thierry Sans**](https://github.com/ThierrySans) | Faculty Partner | [thierry.sans@utoronto.ca](mailto:thierry.sans@utoronto.ca) | Computer security, web development, entrepreneurship |
+| [**Ethan Fosse**](https://github.com/ethanfosse) | Faculty Partner | [ethan.fosse@utoronto.ca](mailto:ethan.fosse@utoronto.ca) | Sociology, data science, computational methods |
 
 ---
 
@@ -74,9 +73,9 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | Name | Role | GitHub |
 |------|------|--------|
 | **Kira Jensen** | Lab Coordinator | https://github.com/KJensen16 |
+| **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
 | **Joanna Fan** | Research Assistant | https://github.com/joannafan |
 | **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
-| **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
 | **Alexandre M. Mueller** | Research Assistant | https://github.com/AlexandreMMueller |
 | **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
 | **Ivy Liu** | Communications & Branding Officer | https://github.com/arjunyanglem |
