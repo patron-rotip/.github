@@ -33,8 +33,8 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 
 ### Templates
 
-- [Projects Template](https://github.com/adapters-lab/projects-template) - Standard PATRON project structure
-- [Infrastructure Template](https://github.com/adapters-lab/data-infrastructure-template) - Hexagonal architecture starter
+- [Projects Template](https://github.com/adapters-lab/projects-template) — Standard PATRON project structure
+- [Infrastructure Template](https://github.com/adapters-lab/data-infrastructure-template) — Hexagonal architecture starter
 
 ### Communication
 
