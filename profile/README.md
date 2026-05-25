@@ -26,7 +26,7 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 - [Welcome](https://github.com/adapters-lab/onboarding/tree/main/welcome) — Lab culture, architecture principles, presenting research
 - [GitHub Guidelines](https://github.com/adapters-lab/onboarding/tree/main/github-guidelines) — Version control workflow for reproducible research
 - [Computing Environment](https://github.com/adapters-lab/onboarding/tree/main/computing-environment) — VS Code, Docker, shell, and Python environment setup
-- [Coding with AI](https://github.com/adapters-lab/onboarding/tree/main/coding-with-ai) — Lab AI policy, tool orientation, skills repo
+- [AI Policy](https://github.com/adapters-lab/onboarding/tree/main/coding-with-ai) — Lab AI policy, tool orientation, skills repo
 - [Dev Practices](https://github.com/adapters-lab/onboarding/tree/main/dev-practices) — Border guard, provenance, readability standards
 - [Python Standards](https://github.com/adapters-lab/onboarding/tree/main/python-standards) — On-ramp for R-first researchers, coding conventions
 - [Data Infrastructure](https://github.com/adapters-lab/onboarding/tree/main/data-infrastructure) — PATRON templates and data layer conventions
@@ -52,7 +52,7 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 
 | Name | Role | Email | Availability |
 |------|------|-------|---------------|
-| [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level or lab matters, reference letters |
+| [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level matters, programming architecture, reference letters |
 | [**Rohan Alexander**](https://github.com/RohanAlexander) | Co-Director | [rohan.alexander@utoronto.ca](mailto:rohan.alexander@utoronto.ca) | Project-level matters, data, code, statistics|
 | [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Team admin, grant writing, timesheets, pedagogical research |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Director of Teaching and Pedagogy | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
