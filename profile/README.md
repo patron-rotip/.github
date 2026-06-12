@@ -23,6 +23,7 @@ Examining factors that influence democratic participation (such as voting system
 
 All onboarding materials live in the [onboarding](https://github.com/adapters-lab/onboarding) repository.
 
+- [Website](https://patron-rotip.ca) — Our team, projects, and partners
 - [Welcome](https://github.com/adapters-lab/onboarding/tree/main/welcome) — Lab culture, architecture principles, presenting research
 - [GitHub Guidelines](https://github.com/adapters-lab/onboarding/tree/main/github-guidelines) — Version control workflow for reproducible research
 - [Computing Environment](https://github.com/adapters-lab/onboarding/tree/main/computing-environment) — VS Code, Docker, shell, and Python environment setup
@@ -48,19 +49,18 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | Team Meetings | Highland Hall, UTSC | Tuesday | 10AM-11AM | Bi-weekly |
 | Writing/Coding Days | Highland Hall, UTSC | Monday / Tuesday | 9AM-5PM | Weekly | 
 
-## Contacts
+## GitHub Contacts
 
 | Name | Role | Email | Availability |
 |------|------|-------|---------------|
-| [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level matters, programming architecture, reference letters |
+| [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level or lab matters, reference letters |
 | [**Rohan Alexander**](https://github.com/RohanAlexander) | Co-Director | [rohan.alexander@utoronto.ca](mailto:rohan.alexander@utoronto.ca) | Project-level matters, data, code, statistics|
 | [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Team admin, grant writing, timesheets, pedagogical research |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Director of Teaching and Pedagogy | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Mike Cowan**](https://github.com/mcowan38) | Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin, recruitment, technical setup, coding, statistics |
-| [**Eli Rose**](https://github.com/elirose1423) | RADIATOR Lead | [eli.rose@utoronto.ca](mailto:eli.rose@utoronto.ca) | Qualitative research, paper writing, presentations |
-| [**Del Coburn**](https://github.com/Baglecake) | Graduate Research Fellow | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
-| [**Alan Wei**](https://github.com/alanwei0405) | Graduate Research Fellow | [alanzy.wei@mail.utoronto.ca](mailto:alanzy.wei@mail.utoronto.ca) | AI engineering, statistics, code review |
-| [**Florence Laflamme**](https://github.com/florence-laflamme) | Graduate Research Fellow | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
+| [**Del Coburn**](https://github.com/Baglecake) | Graduate Student | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
+| [**Alan Wei**](https://github.com/alanwei0405) | Graduate Student | [alanzy.wei@mail.utoronto.ca](mailto:alanzy.wei@mail.utoronto.ca) | AI engineering, statistics, code review |
+| [**Florence Laflamme**](https://github.com/florence-laflamme) | Graduate Student | [florence.laflamme@umontreal.ca](mailto:florence.laflamme@umontreal.ca) | Computational social science, NLP, statistics |
 | [**Matthew Price**](https://github.com/titaniumbones) | Faculty Partner | [matt.price@utoronto.ca](mailto:matt.price@utoronto.ca) | Digital history, data, coding, technical issues |
 | [**Michael Donnelly**](https://github.com/mjdonnelly) | Faculty Partner | [mj.donnelly@utoronto.ca](mailto:mj.donnelly@utoronto.ca) | Quantitative methods, public opinion, social policy |
 | [**Thierry Sans**](https://github.com/ThierrySans) | Faculty Partner | [thierry.sans@utoronto.ca](mailto:thierry.sans@utoronto.ca) | Computer security, web development, entrepreneurship |
@@ -68,38 +68,26 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 
 ---
 
-## Undergraduate Research Assistants
+## Research Assistants
 
 | Name | Role | GitHub |
 |------|------|--------|
 | **Kira Jensen** | Lab Coordinator | https://github.com/KJensen16 |
+| **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
+| **Joanna Fan** | Research Assistant | https://github.com/joannafan |
 | **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
-| **Joanna Fan** | Research Assistant | https://github.com/joannafan |
 | **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
-| **Alexandre M. Mueller** | Research Assistant | https://github.com/AlexandreMMueller |
-| **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
-| **Ivy Liu** | Communications & Branding Officer | https://github.com/arjunyanglem |
-| **Arjun Yanglem** | Communications & Branding Officer | https://github.com/arjunyanglem |
-
-## Scholars in Residence: LiPaD (Summer 2026)
-| Name | Role | GitHub |
-|------|------|--------|
-| **Joanna Fan** | Research Assistant | https://github.com/joannafan |
-| **Keyana Hector** | Research Assistant | https://github.com/keyanahector |
-| **Umai Munamr** | Research Assistant| https://github.com/umarioh |
-| **R R Murugakrishnan**| Research Assistant | https://github.com/Muru2026 |
-| **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
-
-
-
-## Scholars in Residence: Procurement (Summer 2026)
-| Name | Role | GitHub |
-|------|------|--------|
+| **Leah Wolfe** | https://github.com/wolfeleah |
 | **Charlie Cutler** | Research Assistant | https://github.com/charliecutler2 |
 | **Drisha Dadheech** | Research Assistant | https://github.com/DrishaDadheech |
 | **Karin Jakubcova** | Research Assistant| https://github.com/karinjakubcova |
 | **Abigail Price** | Research Assistant | https://github.com/AbigailPrice |
 | **Yota Wang** | Research Assistant | https://github.com/Youziii2 |
+| **R R Murugakrishnan**| Research Assistant | https://github.com/Muru2026 |
+| **Umai Munamr** | Research Assistant| https://github.com/umarioh |
+| **Keyana Hector** | Research Assistant | https://github.com/keyanahector |
+| **Alexandre M. Mueller** | Research Assistant | https://github.com/AlexandreMMueller |
+| **Arjun Yanglem** | Communications Officer | https://github.com/arjunyanglem |
 
 ---
 
@@ -114,6 +102,7 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | **Taiba Ahmed** | https://github.com/taibaahmed |
 | **Wilson Wong** | https://github.com/WilsonWong369 |
 
+---
 
 ## Acknowledgements
 
