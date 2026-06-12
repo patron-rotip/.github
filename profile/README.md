@@ -77,7 +77,7 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | **Joanna Fan** | Research Assistant | https://github.com/joannafan |
 | **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
 | **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
-| **Leah Wolfe** | https://github.com/wolfeleah |
+| **Leah Wolfe** | Research Assistant | https://github.com/wolfeleah |
 | **Charlie Cutler** | Research Assistant | https://github.com/charliecutler2 |
 | **Drisha Dadheech** | Research Assistant | https://github.com/DrishaDadheech |
 | **Karin Jakubcova** | Research Assistant| https://github.com/karinjakubcova |
@@ -88,6 +88,7 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | **Keyana Hector** | Research Assistant | https://github.com/keyanahector |
 | **Alexandre M. Mueller** | Research Assistant | https://github.com/AlexandreMMueller |
 | **Arjun Yanglem** | Communications Officer | https://github.com/arjunyanglem |
+
 
 ---
 
