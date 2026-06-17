@@ -76,8 +76,6 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
 | **Joanna Fan** | Research Assistant | https://github.com/joannafan |
 | **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
-| **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
-| **Leah Wolfe** | Research Assistant | https://github.com/wolfeleah |
 | **Charlie Cutler** | Research Assistant | https://github.com/charliecutler2 |
 | **Drisha Dadheech** | Research Assistant | https://github.com/DrishaDadheech |
 | **Karin Jakubcova** | Research Assistant| https://github.com/karinjakubcova |
@@ -96,12 +94,9 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 
 | Name | GitHub |
 |------|--------|
-| **Lawrence King** | https://github.com/LawVinKin |
-| **Vanessa Milton** | https://github.com/VanessaMilton |
-| **Leah Wolfe** | https://github.com/wolfeleah |
+| **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
+| **Leah Wolfe** | Research Assistant | https://github.com/wolfeleah |
 | **Muhammed Bin Amjad** | https://github.com/MuhammadBinAmjad |
-| **Taiba Ahmed** | https://github.com/taibaahmed |
-| **Wilson Wong** | https://github.com/WilsonWong369 |
 
 ---
 
