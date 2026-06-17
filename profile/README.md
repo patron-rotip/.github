@@ -94,8 +94,8 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 
 | Name | GitHub |
 |------|--------|
-| **Elyana Hussain** | Research Assistant | https://github.com/elyanahussain |
-| **Leah Wolfe** | Research Assistant | https://github.com/wolfeleah |
+| **Elyana Hussain** | https://github.com/elyanahussain |
+| **Leah Wolfe** | https://github.com/wolfeleah |
 | **Muhammed Bin Amjad** | https://github.com/MuhammadBinAmjad |
 
 ---
