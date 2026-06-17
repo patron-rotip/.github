@@ -82,7 +82,7 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | **Abigail Price** | Research Assistant | https://github.com/AbigailPrice |
 | **Yota Wang** | Research Assistant | https://github.com/Youziii2 |
 | **R R Murugakrishnan**| Research Assistant | https://github.com/Muru2026 |
-| **Umai Munamr** | Research Assistant| https://github.com/umarioh |
+| **Umai Munam** | Research Assistant| https://github.com/umarioh |
 | **Keyana Hector** | Research Assistant | https://github.com/keyanahector |
 | **Alexandre M. Mueller** | Research Assistant | https://github.com/AlexandreMMueller |
 | **Arjun Yanglem** | Communications Officer | https://github.com/arjunyanglem |
