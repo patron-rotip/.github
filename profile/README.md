@@ -75,7 +75,6 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 | **Kira Jensen** | Lab Coordinator | https://github.com/KJensen16 |
 | **Sofia Pena** | Research Assistant | https://github.com/sofiapena |
 | **Joanna Fan** | Research Assistant | https://github.com/joannafan |
-| **Jae Hyun Cho** | Research Assistant | https://github.com/jaehyunncho |
 | **Charlie Cutler** | Research Assistant | https://github.com/charliecutler2 |
 | **Drisha Dadheech** | Research Assistant | https://github.com/DrishaDadheech |
 | **Karin Jakubcova** | Research Assistant| https://github.com/karinjakubcova |
