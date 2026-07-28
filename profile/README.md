@@ -55,7 +55,7 @@ All onboarding materials live in the [onboarding](https://github.com/adapters-la
 |------|------|-------|---------------|
 | [**Christopher Cochrane**](https://github.com/ccochrane) | Principal Investigator | [christopher.cochrane@utoronto.ca](mailto:christopher.cochrane@utoronto.ca) | Project-level or lab matters, reference letters |
 | [**Rohan Alexander**](https://github.com/RohanAlexander) | Co-Director | [rohan.alexander@utoronto.ca](mailto:rohan.alexander@utoronto.ca) | Project-level matters, data, code, statistics|
-| [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | strategic oversight, education research, project funding, inter-institutional partnerships |
+| [**Ashley Rostamian**](https://github.com/patron-rotip) | Research Partnership Officer | [ashley.rostamian@utoronto.ca](mailto:ashley.rostamian@utoronto.ca) | Strategic oversight, education research, project funding, inter-institutional partnerships |
 | [**Christopher Greenaway**](https://github.com/ChrisRGreenaway) | Director of Teaching and Pedagogy | [christopher.greenaway@mail.utoronto.ca](mailto:christopher.greenaway@mail.utoronto.ca) | Qualitative research, paper writing, presentations |
 | [**Mike Cowan**](https://github.com/mcowan38) | Lab Manager| [m.cowan@utoronto.ca](mailto:m.cowan@utoronto.ca) | Lab admin, recruitment, technical setup, coding, statistics |
 | [**Del Coburn**](https://github.com/Baglecake) | Graduate Student | [del.coburn@mail.utoronto.ca](mailto:del.coburn@mail.utoronto.ca) | Assistance with LLMs, GitHub, coding/technical issues |
